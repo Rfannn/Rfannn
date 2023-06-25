@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zpmqvnuXRC)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zpmqvnuXRC)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gnsrfan) 
 [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gnsrfan/)
 
