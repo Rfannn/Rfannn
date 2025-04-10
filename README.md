@@ -16,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rfannn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/812218291871285278?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/812218291871285278)
