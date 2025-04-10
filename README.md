@@ -2,10 +2,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gnsrfan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfan__p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfan-nasehi-tabar-b35ab1325) [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 <table align="center">
 	<tr>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-night45&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true">
-		</td>
-		<td width="1200px">
+		
         <a align="left" href="https://discord.com/users/812218291871285278">
  <img align="center" src="https://lanyard.cnrad.dev/api/812218291871285278?theme=Dark&animated=true&hideDiscrim=false&borderRadius=7px&idleMessage=I%20was%20not%20doing%20anything">
    </a> 
