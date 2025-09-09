@@ -2,16 +2,16 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](gnsrfan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
 # 💻 Tech Stack:
-
+ 
 | Languages | Frameworks | Databases | Tools & Platforms |
-|-----------|-------------------------|-----------|-------------------|
-| <img src="https://skillicons.dev/icons?i=py" width="40"/> <br> **Python** | <img src="https://skillicons.dev/icons?i=django" width="40"/> <br> **Django** | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <br> **MySQL** | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <br> **VS Code** |
-| <img src="https://skillicons.dev/icons?i=cs" width="40"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=flask" width="40"/> <br> **Flask** | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> <br> **SQLite** | <img src="https://skillicons.dev/icons?i=visualstudio" width="40"/> <br> **Visual Studio** |
-| <img src="https://skillicons.dev/icons?i=html" width="40"/> <br> **HTML** | <img src="https://skillicons.dev/icons?i=fastapi" width="40"/> <br> **FastAPI** | <img src="https://skillicons.dev/icons?i=postgres" width="40"/> <br> **PostgreSQL** | <img src="https://skillicons.dev/icons?i=git" width="40"/> <br> **Git** |
-| <img src="https://skillicons.dev/icons?i=css" width="40"/> <br> **CSS** | <img src="https://skillicons.dev/icons?i=firebase" width="40"/> <br> **Firebase** |   | <img src="https://skillicons.dev/icons?i=github" width="40"/> <br> **GitHub** |
-| <img src="https://skillicons.dev/icons?i=js" width="40"/> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> <br> **Bootstrap** |   | <img src="https://skillicons.dev/icons?i=linux" width="40"/> <br> **Linux** |
-|   | <img src="https://skillicons.dev/icons?i=react" width="40"/> <br> **React** |   | <img src="https://skillicons.dev/icons?i=powershell" width="40"/> <br> **PowerShell** |
-|   | <img src="https://skillicons.dev/icons?i=opencv" width="40"/> <br> **OpenCV** |   |   |
+|-----------|------------|-----------|-------------------|
+| <abbr title="Expert – 100%"><img src="https://skillicons.dev/icons?i=py" width="40"/></abbr> <br> **Python** | <abbr title="Intermediate – 75%"><img src="https://skillicons.dev/icons?i=django" width="40"/></abbr> <br> **Django** | <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></abbr> <br> **MySQL** | <abbr title="Expert – 95%"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></abbr> <br> **VS Code** |
+| <abbr title="Intermediate – 65%"><img src="https://skillicons.dev/icons?i=cs" width="40"/></abbr> <br> **C#** | <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=flask" width="40"/></abbr> <br> **Flask** | <abbr title="Intermediate – 65%"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/></abbr> <br> **SQLite** | <abbr title="Intermediate – 80%"><img src="https://skillicons.dev/icons?i=visualstudio" width="40"/></abbr> <br> **Visual Studio** |
+| <abbr title="Expert – 95%"><img src="https://skillicons.dev/icons?i=html" width="40"/></abbr> <br> **HTML** | <abbr title="Intermediate – 60%"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/></abbr> <br> **FastAPI** | <abbr title="Intermediate – 60%"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></abbr> <br> **PostgreSQL** | <abbr title="Expert – 90%"><img src="https://skillicons.dev/icons?i=git" width="40"/></abbr> <br> **Git** |
+| <abbr title="Expert – 90%"><img src="https://skillicons.dev/icons?i=css" width="40"/></abbr> <br> **CSS** | <abbr title="Intermediate – 55%"><img src="https://skillicons.dev/icons?i=firebase" width="40"/></abbr> <br> **Firebase** |   | <abbr title="Expert – 85%"><img src="https://skillicons.dev/icons?i=github" width="40"/></abbr> <br> **GitHub** |
+| <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=js" width="40"/></abbr> <br> **JavaScript** | <abbr title="Intermediate – 65%"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></abbr> <br> **Bootstrap** |   | <abbr title="Intermediate – 75%"><img src="https://skillicons.dev/icons?i=linux" width="40"/></abbr> <br> **Linux** |
+|   | <abbr title="Beginner – 40%"><img src="https://skillicons.dev/icons?i=react" width="40"/></abbr> <br> **React** |   | <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=powershell" width="40"/></abbr> <br> **PowerShell** |
+|   | <abbr title="Intermediate – 60%"><img src="https://skillicons.dev/icons?i=opencv" width="40"/></abbr> <br> **OpenCV** |   |   |
 
 
 # 📊 GitHub Stats:
