@@ -1,16 +1,10 @@
-### 🔧 Skills Overview
-
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" width="45" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=cs" width="45" title="C#"/>
-  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=react" width="45" title="React"/>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="50" title="Python - Expert (100%)"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" title="C# - Intermediate (65%)"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript - Intermediate (70%)"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" title="React - Beginner (40%)"/></a>
 </p>
-
-- Python ![100%](https://progress-bar.dev/100/?title=Expert)
-- C# ![65%](https://progress-bar.dev/65/?title=Intermediate)
-- JavaScript ![70%](https://progress-bar.dev/70/?title=Intermediate)
-- React ![40%](https://progress-bar.dev/40/?title=Beginner)
 
 
 
