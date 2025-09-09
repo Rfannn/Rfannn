@@ -5,7 +5,7 @@
 
 # 💻 Tech Stack:
 
-| Languages | Frameworks & Libraries | Databases | Tools & Platforms |
+| Languages | Frameworks | Databases | Tools & Platforms |
 |-----------|-------------------------|-----------|-------------------|
 | <img src="https://skillicons.dev/icons?i=py" width="40"/> <br> **Python** | <img src="https://skillicons.dev/icons?i=django" width="40"/> <br> **Django** | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <br> **MySQL** | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <br> **VS Code** |
 | <img src="https://skillicons.dev/icons?i=cs" width="40"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=flask" width="40"/> <br> **Flask** | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> <br> **SQLite** | <img src="https://skillicons.dev/icons?i=visualstudio" width="40"/> <br> **Visual Studio** |
