@@ -1,36 +1,18 @@
-### 🛠️ Tech Stack
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="50" title="Python - Expert (100%)"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" title="C# - Intermediate (65%)"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" title="JavaScript - Intermediate (70%)"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="50" title="React - Beginner (40%)"/></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](gnsrfan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
 # 💻 Tech Stack:
  
-| Languages | Frameworks | Databases | Tools & Platforms |
-|-----------|------------|-----------|-------------------|
-| <abbr title="Expert – 100%"><img src="https://skillicons.dev/icons?i=py" width="40"/></abbr> <br> **Python** | <abbr title="Intermediate – 75%"><img src="https://skillicons.dev/icons?i=django" width="40"/></abbr> <br> **Django** | <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></abbr> <br> **MySQL** | <abbr title="Expert – 95%"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></abbr> <br> **VS Code** |
-| <abbr title="Intermediate – 65%"><img src="https://skillicons.dev/icons?i=cs" width="40"/></abbr> <br> **C#** | <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=flask" width="40"/></abbr> <br> **Flask** | <abbr title="Intermediate – 65%"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/></abbr> <br> **SQLite** | <abbr title="Intermediate – 80%"><img src="https://skillicons.dev/icons?i=visualstudio" width="40"/></abbr> <br> **Visual Studio** |
-| <abbr title="Expert – 95%"><img src="https://skillicons.dev/icons?i=html" width="40"/></abbr> <br> **HTML** | <abbr title="Intermediate – 60%"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/></abbr> <br> **FastAPI** | <abbr title="Intermediate – 60%"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></abbr> <br> **PostgreSQL** | <abbr title="Expert – 90%"><img src="https://skillicons.dev/icons?i=git" width="40"/></abbr> <br> **Git** |
-| <abbr title="Expert – 90%"><img src="https://skillicons.dev/icons?i=css" width="40"/></abbr> <br> **CSS** | <abbr title="Intermediate – 55%"><img src="https://skillicons.dev/icons?i=firebase" width="40"/></abbr> <br> **Firebase** |   | <abbr title="Expert – 85%"><img src="https://skillicons.dev/icons?i=github" width="40"/></abbr> <br> **GitHub** |
-| <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=js" width="40"/></abbr> <br> **JavaScript** | <abbr title="Intermediate – 65%"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></abbr> <br> **Bootstrap** |   | <abbr title="Intermediate – 75%"><img src="https://skillicons.dev/icons?i=linux" width="40"/></abbr> <br> **Linux** |
-|   | <abbr title="Beginner – 40%"><img src="https://skillicons.dev/icons?i=react" width="40"/></abbr> <br> **React** |   | <abbr title="Intermediate – 70%"><img src="https://skillicons.dev/icons?i=powershell" width="40"/></abbr> <br> **PowerShell** |
-|   | <abbr title="Intermediate – 60%"><img src="https://skillicons.dev/icons?i=opencv" width="40"/></abbr> <br> **OpenCV** |   |   |
+| Languages | Frameworks | Databases | Platforms |
+|-----------|------------|-----------|-----------|
+| <img src="https://skillicons.dev/icons?i=py" width="45" title="Python - Expert (100%)"/> <br> **Python** | <img src="https://skillicons.dev/icons?i=django" width="45" title="Django - Intermediate (70%)"/> <br> **Django** | <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL - Intermediate (65%)"/> <br> **MySQL** | <img src="https://skillicons.dev/icons?i=firebase" width="45" title="Firebase - Intermediate (60%)"/> <br> **Firebase** |
+| <img src="https://skillicons.dev/icons?i=cs" width="45" title="C# - Intermediate (65%)"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=flask" width="45" title="Flask - Intermediate (70%)"/> <br> **Flask** | <img src="https://skillicons.dev/icons?i=sqlite" width="45" title="SQLite - Beginner (50%)"/> <br> **SQLite** |  |
+| <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML - Expert (100%)"/> <br> **HTML** | <img src="https://skillicons.dev/icons?i=fastapi" width="45" title="FastAPI - Beginner (40%)"/> <br> **FastAPI** | <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL - Beginner (40%)"/> <br> **PostgreSQL** |  |
+| <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS - Expert (90%)"/> <br> **CSS** | <img src="https://skillicons.dev/icons?i=bootstrap" width="45" title="Bootstrap - Intermediate (70%)"/> <br> **Bootstrap** |  |  |
+| <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript - Intermediate (70%)"/> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=react" width="45" title="React - Beginner (50%)"/> <br> **React** |  |  |
+|  | <img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV - Intermediate (60%)"/> <br> **OpenCV** |  |  |
+
 
 
 # 📊 GitHub Stats:
