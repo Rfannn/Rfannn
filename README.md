@@ -7,11 +7,12 @@
 | Languages | Frameworks | Databases | Platforms |
 |-----------|------------|-----------|-----------|
 | <img src="https://skillicons.dev/icons?i=py" width="45" title="Python - Expert (100%)"/> <br> **Python** | <img src="https://skillicons.dev/icons?i=django" width="45" title="Django - Intermediate (70%)"/> <br> **Django** | <img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL - Intermediate (65%)"/> <br> **MySQL** | <img src="https://skillicons.dev/icons?i=firebase" width="45" title="Firebase - Intermediate (60%)"/> <br> **Firebase** |
-| <img src="https://skillicons.dev/icons?i=cs" width="45" title="C# - Intermediate (65%)"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=flask" width="45" title="Flask - Intermediate (70%)"/> <br> **Flask** | <img src="https://skillicons.dev/icons?i=sqlite" width="45" title="SQLite - Beginner (50%)"/> <br> **SQLite** |  |
-| <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML - Expert (100%)"/> <br> **HTML** | <img src="https://skillicons.dev/icons?i=fastapi" width="45" title="FastAPI - Beginner (40%)"/> <br> **FastAPI** | <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL - Beginner (40%)"/> <br> **PostgreSQL** |  |
-| <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS - Expert (90%)"/> <br> **CSS** | <img src="https://skillicons.dev/icons?i=bootstrap" width="45" title="Bootstrap - Intermediate (70%)"/> <br> **Bootstrap** |  |  |
+| <img src="https://skillicons.dev/icons?i=cs" width="45" title="C# - Intermediate (65%)"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=flask" width="45" title="Flask - Intermediate (70%)"/> <br> **Flask** | <img src="https://skillicons.dev/icons?i=sqlite" width="45" title="SQLite - Beginner (50%)"/> <br> **SQLite** | <img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux - Intermediate (60%)"/> <br> **Linux** |
+| <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML - Expert (100%)"/> <br> **HTML** |  | <img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL - Beginner (40%)"/> <br> **PostgreSQL** |  |
+| <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS - Expert (90%)"/> <br> **CSS** |  |  |  |
 | <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript - Intermediate (70%)"/> <br> **JavaScript** | <img src="https://skillicons.dev/icons?i=react" width="45" title="React - Beginner (50%)"/> <br> **React** |  |  |
 |  | <img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV - Intermediate (60%)"/> <br> **OpenCV** |  |  |
+
 
 
 
