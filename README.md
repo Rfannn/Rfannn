@@ -1,3 +1,28 @@
+### 🔧 Skills Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" width="45" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="45" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React"/>
+</p>
+
+- Python ![100%](https://progress-bar.dev/100/?title=Expert)
+- C# ![65%](https://progress-bar.dev/65/?title=Intermediate)
+- JavaScript ![70%](https://progress-bar.dev/70/?title=Intermediate)
+- React ![40%](https://progress-bar.dev/40/?title=Beginner)
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](gnsrfan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
