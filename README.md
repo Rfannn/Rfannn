@@ -4,11 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
 # 💻 Tech Stack:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,py,github,pythonanywhere,dotnet,opencv,django,flask&perline=6" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,c#,html,css,js,django,flask,fastapi,apache,auth0,firebase,vscodde,visualstudio,git,github,linux,powershell,opencv,mysql,sqlite,postgres,bootstrap,react)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rfannn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
