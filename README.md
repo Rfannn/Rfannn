@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
 # 💻 Tech Stack:
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,html,css,js,py,github,pythonanywhere,dotnet,opencv,django,flask&perline=6" />
   </a>
