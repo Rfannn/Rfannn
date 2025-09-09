@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](gnsrfan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
 # 💻 Tech Stack:
-| Languages | Frameworks | Databases | Tools & Platforms |
+| Languages | Frameworks | Databases | Platforms |
 |-----------|------------|-----------|-----------------|
 | <img src="https://skillicons.dev/icons?i=py" width="40"/> <br> **Python** | <img src="https://skillicons.dev/icons?i=django" width="40"/> <br> **Django** | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> <br> **MySQL** | <img src="https://skillicons.dev/icons?i=linux" width="40"/> <br> **Linux** |
 | <img src="https://skillicons.dev/icons?i=cs" width="40"/> <br> **C#** | <img src="https://skillicons.dev/icons?i=flask" width="40"/> <br> **Flask** | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> <br> **SQLite** | <img src="https://skillicons.dev/icons?i=git" width="40"/> <br> **Git** |
