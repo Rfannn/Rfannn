@@ -10,7 +10,6 @@
 | <img src="https://skillicons.dev/icons?i=html" width="40"/> <br> **HTML** | <img src="https://skillicons.dev/icons?i=react" width="40"/> <br> **React** | <img src="https://skillicons.dev/icons?i=postgres" width="40"/> <br> **PostgreSQL** | <img src="https://skillicons.dev/icons?i=github" width="40"/> <br> **GitHub** |
 | <img src="https://skillicons.dev/icons?i=css" width="40"/> <br> **CSS** |   |   | <img src="https://skillicons.dev/icons?i=firebase" width="40"/> <br> **Firebase** |
 | <img src="https://skillicons.dev/icons?i=js" width="40"/> <br> **JavaScript** |   |   | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <br> **VS Code** |
-|   |   |   | <img src="https://skillicons.dev/icons?i=powershell" width="40"/> <br> **PowerShell** |
 
 
 # 📊 GitHub Stats:
