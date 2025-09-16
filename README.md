@@ -1,4 +1,4 @@
-https://docs.google.com/presentation/d/1hcrecAUhqpygSlBdBevzbW6KCsRdnB1BfyFBqxVXwPM/edit?slide=id.g37458a96a55_1_60&pli=1#slide=id.g37458a96a55_1_60
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](gnsrfan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()  [![Telegram](https://img.shields.io/badge/-telegram-white?color=white&logo=telegram&logoColor=blue)](https://t.me/gns_rfan/)
 
